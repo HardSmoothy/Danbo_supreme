@@ -13,14 +13,14 @@
 |比率|1.4|4.0|3.2|1.4|10|
 
 本体
-|名称|防具|KB耐性|素材|売価予定|相当|
-|:----------------|----:|----:|--------:|----------:|:----------|
-|Light Prime|+7.5|+0|革|1EMB+鉄32|鉄|
-|Light Advance|+10|+1|ダイヤ|16EMB+ダイヤ32|ネザライト|
-|Light Supreme|+25|-1|ダイヤ|4OMT+SuperBeacon|旧Hedofonの2倍|
-|Heavy Standard|+3.5|+2|鉄|16EMS|革|
-|Heavy Advance|+20|+10|ネザライト|4OMT+ネザライト16|旧Hedofonの2倍|
-|Extreme|+12|+0|石|1SEG|旧Hedofon|
+|名称|H|C|L|B|KB耐性(共通)|素材|売価予定|相当|
+|:----------------|--:|--:|--:|--:|----:|--------:|----------:|:----------|
+|Light Prime|6|16|12|6|+0|革|1EMB+鉄32|鉄|
+|Light Advance|4|12|10|4|+1|ダイヤ|16EMB+ダイヤ32|ネザライト|
+|Light Supreme|14|40|32|14|-1|ダイヤ|4OMT+SuperBeacon|旧Hedofonの2倍|
+|Heavy Standard|1|3|2|1|+2|鉄|16EMS|革|
+|Heavy Advance|12|32|24|12|+10|ネザライト|4OMT+ネザライト16|旧Hedofonの2倍|
+|Extreme|12|12|12|12|+0|石|1SEG|旧Hedofon|
 ## 便利アイテム
 ### 保管スティック
 |種類|CustomModelData|統合版オフハンド|ItemIdentify|
