@@ -1,0 +1,25 @@
+# アイテム一覧及び追加NBT一覧
+## 食品系
+フレーバーアイテム表参照
+## 装備系
+### Hedofon装備
+メモ
+|素材|H|C|L|B|Total|
+|革|1|3|2|1|7|
+|鉄|2|6|5|2|15|
+|ダイヤ|3|8|6|3|20|
+|Hedofon|-|20|-|-|50|
+|比率|1.4|4.0|3.2|1.4|10|
+
+本体
+|名称|防具|KB耐性|素材|売価予定|相当|
+|Light Prime|+7.5|+0|革|1EMB+鉄32|鉄|
+|Light Advance|+10|+1|ダイヤ|16EMB+ダイヤ32|ネザライト|
+|Light Supreme|+25|-1|ダイヤ|4OMT+SuperBeacon|旧Hedofonの2倍|
+|Heavy Standard|+3.5|+2|鉄|16EMS|革|
+|Heavy Advance|+20|+10|ネザライト|4OMT+ネザライト16|旧Hedofonの2倍|
+|Extreme|+12|+0|石|1SEG|旧Hedofon|
+## 便利アイテム
+### 保管スティック
+|種類|CustomModelData|統合版オフハンド|ItemIdentify|
+|経験値|
