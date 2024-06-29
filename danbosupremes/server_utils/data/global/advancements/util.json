@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Cardboard Datapack Alpha 0",
+        "description": "Datapack system for CardBoard (danboru) Server",
+        "icon": {
+            "item": "minecraft:glass"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
