@@ -7,6 +7,13 @@
 
 # 計算用
 scoreboard objectives add calcs_temp dummy
+scoreboard players set 2 calcs_temp 2
+scoreboard players set 5 calcs_temp 5
+scoreboard players set 7 calcs_temp 7
+scoreboard players set 9 calcs_temp 9
+scoreboard players set 75 calcs_temp 75
+scoreboard players set 5 calcs_temp 5
+
 
 # 検知用一括
 scoreboard objectives add carrot_detect used:carrot_on_a_stick
