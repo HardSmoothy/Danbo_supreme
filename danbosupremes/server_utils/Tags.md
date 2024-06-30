@@ -20,7 +20,7 @@
 |Light Supreme|14|40|32|14|-1|ダイヤ|4OMT+SuperBeacon|旧Hedofonの2倍|
 |Heavy Standard|1|3|2|1|+2|鉄|16EMS|革|
 |Heavy Advance|12|32|24|12|+10|ネザライト|4OMT+ネザライト16|旧Hedofonの2倍|
-|Extreme|12|12|12|12|+0|石|1SEG|旧Hedofon|
+|Extreme|50|-|-|-|+0|遮光ガラス|1SEG|旧Hedofon|
 ## 便利アイテム
 ### 保管スティック
 |種類|CustomModelData|統合版オフハンド|ItemIdentify|
