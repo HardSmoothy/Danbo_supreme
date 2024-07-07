@@ -6,7 +6,7 @@
 ##
 
 # 1: 使用アイテムの断定
-scoreboard players reset @s type_detected
+scoreboard players reset @a type_detected
 execute as @a at @s run execute if score @s carrot_detect matches 1.. run function util:sys/main_derection_carrot
 execute as @a at @s run execute if score @s fungus_detect matches 1.. run function util:sys/main_derection_fungus
 
@@ -20,4 +20,6 @@ execute as @a at @s run execute if score @s type_detected matches 11..20 run fun
 
 # 6: リセット
 # スニークはここでリセットする
+scoreboard players reset @a carrot_detect
+scoreboard players reset @a fungus_detect
 scoreboard players reset @a sneek_time
